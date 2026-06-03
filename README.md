@@ -8,7 +8,9 @@
   <p>
     <img src="https://img.shields.io/badge/Status-In%20Development-blue?style=for-the-badge" />
     <img src="https://img.shields.io/badge/License-Open%20Source-green?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Made%20by-Selim%20JERBI-blueviolet?style=for-the-badge" />
+    <a href="https://github.com/Selimjerbi66">
+      <img src="https://img.shields.io/badge/Made%20by-Selim%20JERBI-blueviolet?style=for-the-badge" />
+    </a>
   </p>
 </div>
 
