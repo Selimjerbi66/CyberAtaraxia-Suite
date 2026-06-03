@@ -31,7 +31,7 @@ The suite is developed and maintained by **Selim JERBI**, cybersecurity engineer
 - 🌍 **Current language:** French 🇫🇷
 - 🔜 **English version coming soon** 🇬🇧
 <div align="center">
-  <a href="https://github.com/selimjerbi66/CA-NIS2-Auditor">
+  <a href="https://github.com/Selimjerbi66/CyberAtaraxia-NIS2-Auditor">
     <img src="https://img.shields.io/badge/→%20CA%20NIS2%20Auditor-View%20Repository-1a56db?style=for-the-badge&logo=github&logoColor=white" alt="CA NIS2 Auditor Repository"/>
   </a>
 </div>
