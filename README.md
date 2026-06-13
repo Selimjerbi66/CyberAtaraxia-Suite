@@ -37,6 +37,7 @@ The suite is developed and maintained by **Selim JERBI**, cybersecurity engineer
     <img src="https://img.shields.io/badge/→%20CA%20NIS2%20Auditor-View%20Repository-1a56db?style=for-the-badge&logo=github&logoColor=white" alt="CA NIS2 Auditor Repository"/>
   </a>
 </div>
+
 ### ✅ CA Training Suite — *Available now*
  
 **CA Training Suite** is a sub-suite of the CyberAtaraxia Suite. It is a **Suite of Web-based Cybersecurity Training Apps**, guiding beginners in their learning journeys using exclusively free open source tools found online, crediting every contributor to the sea of free knowledge known as the ***World Wide Web***.
