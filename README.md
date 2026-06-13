@@ -42,7 +42,7 @@ The suite is developed and maintained by **Selim JERBI**, cybersecurity engineer
  
 ## 👤 About the Developer
  
-- 🎓 Engineering student at **Polytech Dijon**, specializing in Cybersecurity
+- 🎓 Network Engineering student at **Polytech Dijon**, specializing in Cybersecurity
 - 🔵 Blue Teamer | ICT Auditor | Network Administrator
 - 🏢 Cybersecurity Intern at **Axem Belgium**
 - 🌱 Currently pursuing **Blue Team L1 · ISO 27001/2022 · CCNA**
