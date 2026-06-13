@@ -28,13 +28,23 @@ The suite is developed and maintained by **Selim JERBI**, cybersecurity engineer
  
 ### ✅ CA NIS2 Auditor — *Available now*
  
-**CA NIS2 Auditor** is the first tool of the CyberAtaraxia suite. It is a **NIS2 compliance audit tool designed for small and medium-sized enterprises (SMEs)**, covering the 8 key themes of the European NIS2 directive (2024).
+**CA NIS2 Auditor** is the first tool of the CyberAtaraxia suite. It is a **NIS2 compliance audit tool designed for small SMEs**, covering the 8 key themes of the European NIS2 directive (2024).
  
 - 🌍 **Current language:** French 🇫🇷
 - 🔜 **English version coming soon** 🇬🇧
 <div align="center">
   <a href="https://github.com/Selimjerbi66/CyberAtaraxia-NIS2-Auditor">
     <img src="https://img.shields.io/badge/→%20CA%20NIS2%20Auditor-View%20Repository-1a56db?style=for-the-badge&logo=github&logoColor=white" alt="CA NIS2 Auditor Repository"/>
+  </a>
+</div>
+### ✅ CA Training Suite — *Available now*
+ 
+**CA Training Suite** is a sub-suite of the CyberAtaraxia Suite. It is a **Suite of Web-based Cybersecurity Training Apps**, guiding beginners in their learning journeys using exclusively free open source tools found online, crediting every contributor to the sea of free knowledge known as the ***World Wide Web***.
+ 
+- 🌍 **Current language:** English 🇬🇧
+<div align="center">
+  <a href="https://github.com/Selimjerbi66/CyberAtaraxia-Training-Suite">
+    <img src="https://img.shields.io/badge/→%20CA%20Training%20Suite-View%20Repository-1a56db?style=for-the-badge&logo=github&logoColor=white" alt="CA Training Suite Repository"/>
   </a>
 </div>
 
