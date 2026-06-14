@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Selimjerbi66/CyberAtaraxia-Suite/blob/main/CyberAtaraxia_LOGO.png?raw=true" width="180" alt="CyberAtaraxia Logo"/>
+  <img src="https://github.com/Selimjerbi66/CyberAtaraxia-Suite/blob/main/cyberataraxia_new_logo.png?raw=true" width="180" alt="CyberAtaraxia Logo"/>
   <h1>CyberAtaraxia Suite</h1>
  
   <p>
