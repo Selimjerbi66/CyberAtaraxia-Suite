@@ -13,7 +13,6 @@
     </a>
   </p>
 </div>
-
 ---
  
 ## 🛡️ About CyberAtaraxia
@@ -37,7 +36,6 @@ The suite is developed and maintained by **Selim JERBI**, cybersecurity engineer
     <img src="https://img.shields.io/badge/→%20CA%20NIS2%20Auditor-View%20Repository-1a56db?style=for-the-badge&logo=github&logoColor=white" alt="CA NIS2 Auditor Repository"/>
   </a>
 </div>
-
 ### ✅ CA Training Suite — *Available now*
  
 **CA Training Suite** is a sub-suite of the CyberAtaraxia Suite. It is a **Suite of Web-based Cybersecurity Training Apps**, guiding beginners in their learning journeys using exclusively free open source tools found online, crediting every contributor to the sea of free knowledge known as the ***World Wide Web***.
@@ -49,6 +47,17 @@ The suite is developed and maintained by **Selim JERBI**, cybersecurity engineer
   </a>
 </div>
 
+### 🧪 CyberAtaraxia ValeriA — *Available now (Prototype)*
+
+**CyberAtaraxia ValeriA** is a self-hosted, privacy-first chat interface for local LLMs served through **Ollama** — a lightweight, open-source alternative to Open WebUI. It gives local models (Gemma, Llama, etc.) real-time web search capability via **SearXNG**, with every request, search, and response staying entirely on your own machine.
+
+- 🌍 **Current language:** French 🇫🇷
+- ⚠️ **Status:** early prototype — functional, but under active development
+<div align="center">
+  <a href="https://github.com/Selimjerbi66/CyberAtaraxia-ValeriA">
+    <img src="https://img.shields.io/badge/→%20CyberAtaraxia%20ValeriA-View%20Repository-1a56db?style=for-the-badge&logo=github&logoColor=white" alt="CyberAtaraxia ValeriA Repository"/>
+  </a>
+</div>
 ---
  
 ## 👤 About the Developer
@@ -66,7 +75,6 @@ The suite is developed and maintained by **Selim JERBI**, cybersecurity engineer
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
  
 <div align="center">
   <sub>CyberAtaraxia Suite — Open Source · Built with purpose by Selim JERBI</sub>
